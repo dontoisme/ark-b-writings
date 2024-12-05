@@ -3,3 +3,7 @@ Working in Product Management, I find myself thinking about Chapter 24 from [The
 Even more so now as I'm seeking my next opportunity as a Director of Product or Head of Product. 
 
 You can read [Chapter 24 and my take on why I named this blog the way I did here.]({% post_url 2024-10-23-Chapter-24 %}).
+
+### Lists of random things
+
+- ["Now" Projects I'm working on]({% post_url 2024-12-05-now-projects %})
