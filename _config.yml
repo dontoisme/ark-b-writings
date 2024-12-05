@@ -2,3 +2,8 @@ theme: minima
 title: Ark B Writings
 author: Don Hogan
 description: Writings of a hobbiest who tries to make a living solving big problems
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
