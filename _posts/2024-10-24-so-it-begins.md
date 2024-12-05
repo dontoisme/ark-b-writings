@@ -1,5 +1,5 @@
 ---
-title: "so-it-begins"
+title: "so it begins"
 date: 2024-10-24
 ---
 
