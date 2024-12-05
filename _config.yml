@@ -3,6 +3,9 @@ title: Ark B Writings
 author: Don Hogan
 description: Writings of a hobbiest who tries to make a living solving big problems
 
+include:
+  - _pages
+
 collections:
   pages:
     output: true
