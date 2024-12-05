@@ -6,5 +6,5 @@ You can read [Chapter 24 and my take on why I named this blog the way I did here
 
 ### Lists of random things
 
-- ["Now" Projects I'm working on]({% link _posts/now-projects.md %})
-- [Articles I think about often]({% link _posts/articles.md %})
+- ["Now" Projects I'm working on]({% link _pages/now-projects.md %})
+- [Articles I think about often]({% link _pages/articles.md %})
