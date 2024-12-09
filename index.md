@@ -8,3 +8,4 @@ You can read [Chapter 24 and my take on why I named this blog the way I did here
 
 - ["Now" Projects I'm working on]({% link _pages/now-projects.md %})
 - [Articles I think about often]({% link _pages/articles.md %})
+- [Games I'm enjoying]({% link _pages/games.md %})
