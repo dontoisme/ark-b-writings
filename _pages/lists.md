@@ -8,6 +8,6 @@ categories: lists
 
 # Lists
 
-- [Articles I think about often](/articles.md)
-- ["Now" Projects I'm working on](/now-projects.md)
+- [Articles I think about often](/articles)
+- ["Now" Projects I'm working on](/now-projects)
 - [Games I'm enjoying](games)
