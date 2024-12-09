@@ -10,3 +10,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+header_pages: 
+  - _pages/lists.md
