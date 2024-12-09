@@ -6,6 +6,6 @@ You can read [Chapter 24 and my take on why I named this blog the way I did here
 
 ### Lists of random things
 
-- ["Now" Projects I'm working on](_pages/now-projects.md)
-- [Articles I think about often](_pages/articles.md )
-- [Games I'm enjoying](_pages/games.md)
+- ["Now" Projects I'm working on](_pages/lists/now-projects.md)
+- [Articles I think about often](_pages/lists/articles.md )
+- [Games I'm enjoying](_pages/lists/games.md)
