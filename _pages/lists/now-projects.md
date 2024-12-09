@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Current Projects - What I'm Working On Now"
 date: 2024-12-05
 permalink: /lists/now-projects/

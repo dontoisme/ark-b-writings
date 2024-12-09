@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Articles I Think About Often"
 date: 2024-12-05
 permalink: /lists/articles/

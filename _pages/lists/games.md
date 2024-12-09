@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Games"
 date: 2024-12-05
 permalink: /lists/games/
