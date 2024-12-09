@@ -10,4 +10,4 @@ categories: lists
 
 - [Articles I think about often](/articles.md)
 - ["Now" Projects I'm working on](/now-projects.md)
-- [Games I'm enjoying](games.md)
+- [Games I'm enjoying](games)
