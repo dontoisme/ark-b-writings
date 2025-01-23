@@ -14,4 +14,4 @@ collections:
 header_pages: 
   - _pages/lists.md
 
-baseurl: ""  # leave empty if serving from root
+baseurl: "/dontoisme.github.io"
