@@ -9,11 +9,11 @@ permalink: /roadmap/
 
 <style>
 applause-button {
-  width: 40px;
-  height: 40px;
+  width: 24px;
+  height: 24px;
   display: inline-block;
   vertical-align: middle;
-  margin-left: 8px;
+  margin-left: 6px;
 }
 .idea-row {
   display: flex;
