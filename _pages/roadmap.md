@@ -15,7 +15,7 @@ This is a living list of posts I'm planning to write. Some are ready to go, othe
 ## In Progress
 
 - **"The 73% Funnel Drop-Off That Almost Nobody Solved"** — Data-driven feature prioritization case study from a healthcare app
-- **"Building a Second Brain for ADHD"** — From 25-point IQ/working memory gap to functional excellence
+- **"Building a Second Brain for ADHD"** — Systems thinking for executive function challenges
 - **"Multi-Agent Claude Code Orchestration"** — 70+ specialized AI agents in my daily workflow
 
 ---
@@ -56,7 +56,7 @@ Visual regression testing for iOS apps. Git-aware. AI-native.
 
 ## Second Brain / Claude Code / Obsidian
 
-1. **"Building a Second Brain for ADHD: From 25-Point Gap to Functional Excellence"** — System design for executive function gaps
+1. **"Building a Second Brain for ADHD"** — Practical system design for executive function challenges
 2. **"Token Economics: How I Reduced Claude Code Context by 88%"** — Lazy-loading architecture
 3. **"Multi-Agent Claude Code Orchestration"** — 70+ specialized AI agents
 4. **"The PARA+MOC System in Action: 7,698 Lines of Production PKM"** — Real-world knowledge organization
@@ -101,7 +101,7 @@ Visual regression testing for iOS apps. Git-aware. AI-native.
 
 1. **"Why Personal Software Matters: The Ladderbot Story"** — Building for yourself and friends
 2. **"Side Projects as Resume: My Best of Career"** — Portfolio narrative
-3. **"ADHD as Superpower: Pattern Recognition and Crisis Performance"** — Reframing the paradox
+3. **"ADHD as Superpower: Pattern Recognition and Crisis Performance"** — Reframing neurodivergence in product work
 4. **"The Novelty-Seeking Career Path"** — Movement every 2-3 years for growth
 5. **"Music Analytics with Pitchfork DB"** — Trend detection in album reviews
 
@@ -111,7 +111,7 @@ Visual regression testing for iOS apps. Git-aware. AI-native.
 
 These have documentation ready to write immediately:
 
-1. **"Building a Second Brain for ADHD"** — 33KB of source documentation
+1. **"Building a Second Brain for ADHD"** — Extensive source documentation ready
 2. **"The Spoiler-Free Comment System"** — Just completed implementation
 3. **"Token Economics: 88% Context Reduction"** — System is documented
 4. **"The Extension Pattern"** — Full architecture docs
