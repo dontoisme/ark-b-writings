@@ -11,7 +11,8 @@ collections:
     output: true
     permalink: /:path/
 
-header_pages: 
+header_pages:
   - _pages/lists.md
+  - _pages/roadmap.md
 
 baseurl: "/ark-b-writings"
